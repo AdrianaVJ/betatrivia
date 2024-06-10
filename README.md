@@ -1,0 +1,2 @@
+# betatrivia
+practica de git
